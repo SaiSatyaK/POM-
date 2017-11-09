@@ -1,2 +1,2 @@
-# POM-
+# POM
 POM - Facebook
