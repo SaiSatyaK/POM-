@@ -17,7 +17,7 @@ public class Login {
 // parameterize tests
 // ant
 // Logging
-// Mailing reports
+//// Mailing reports
 	public static void main(String[] args) {
 
 		LoginPage l = new LoginPage();
