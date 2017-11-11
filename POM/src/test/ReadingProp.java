@@ -14,7 +14,7 @@ public class ReadingProp {
 		String path = System.getProperty("user.dir")+"\\src\\com\\qtpselenium\\config\\config.properties";
 		System.out.println(System.getProperty("user.dir"));
 		System.out.println(path);
-		
+		//Landing page URL
 		try{
 		FileInputStream fs = new FileInputStream(path);
 		prop.load(fs);
